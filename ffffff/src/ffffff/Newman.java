@@ -8,6 +8,8 @@ private String ddd;
 
 public Newman(int sss, String ddd) {
 	super();
+	
+	
 	this.sss = sss;
 	this.ddd = ddd;
 }
